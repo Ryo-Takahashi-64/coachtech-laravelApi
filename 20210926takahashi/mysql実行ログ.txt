@@ -1,0 +1,9 @@
+MariaDB [(none)]> create database exercise;
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [(none)]> create database exercise_test;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]>
+
+
